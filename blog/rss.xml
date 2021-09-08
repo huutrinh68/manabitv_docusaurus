@@ -4,9 +4,16 @@
         <title>ManabiTV Blog</title>
         <link>https://huutrinh68.github.io/manabitv/blog</link>
         <description>ManabiTV Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[neovim setting]]></title>
+            <link>https://huutrinh68.github.io/manabitv/blog/neovim setting</link>
+            <guid>neovim setting</guid>
+            <pubDate>Wed, 08 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Install neovim]]></description>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://huutrinh68.github.io/manabitv/blog/welcome</link>

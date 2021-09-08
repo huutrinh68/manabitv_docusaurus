@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://huutrinh68.github.io/manabitv/blog</id>
     <title>ManabiTV Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2021-09-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://huutrinh68.github.io/manabitv/blog"/>
     <subtitle>ManabiTV Blog</subtitle>
     <icon>https://huutrinh68.github.io/manabitv/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[neovim setting]]></title>
+        <id>neovim setting</id>
+        <link href="https://huutrinh68.github.io/manabitv/blog/neovim setting"/>
+        <updated>2021-09-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Install neovim]]></summary>
+        <author>
+            <name>Huutrinh</name>
+            <uri>https://github.com/huutrinh68</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
