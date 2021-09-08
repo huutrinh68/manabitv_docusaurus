@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'ManabiTV',
   tagline: 'AI Deeplearning change the future',
-  url: 'https://huutrinh68.github.io/manabitv',
+  url: 'https://huutrinh68.github.io',
   baseUrl: '/manabitv/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
