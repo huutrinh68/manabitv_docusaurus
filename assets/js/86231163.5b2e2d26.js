@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[1676],{6084:function(a){a.exports=JSON.parse('{"allTagsPath":"/manabitv/blog/tags","slug":"/manabitv/blog/tags/facebook","name":"facebook","count":1,"permalink":"/manabitv/blog/tags/facebook"}')}}]);
