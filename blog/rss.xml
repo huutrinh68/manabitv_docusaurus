@@ -4,35 +4,35 @@
         <title>ManabiTV Blog</title>
         <link>https://huutrinh68.github.io/manabitv/blog</link>
         <description>ManabiTV Blog</description>
-        <lastBuildDate>Thu, 09 Sep 2021 07:43:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 07:55:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Links to download free book]]></title>
             <link>https://huutrinh68.github.io/manabitv/blog/free book</link>
             <guid>free book</guid>
-            <pubDate>Thu, 09 Sep 2021 07:43:19 GMT</pubDate>
+            <pubDate>Thu, 09 Sep 2021 07:55:15 GMT</pubDate>
             <description><![CDATA[You can access here to download pdf book]]></description>
         </item>
         <item>
             <title><![CDATA[Dataset cho face recognition]]></title>
             <link>https://huutrinh68.github.io/manabitv/blog/dataset</link>
             <guid>dataset</guid>
-            <pubDate>Thu, 09 Sep 2021 07:43:19 GMT</pubDate>
+            <pubDate>Thu, 09 Sep 2021 07:55:15 GMT</pubDate>
             <description><![CDATA[Gần đây gặp nhiều project làm về phát hiện và nhận diện khuôn mặt (face recognition). Về tác vụ này thì người ta đã nghiên cứu và thực hiện từ khá lâu rồi. Như ở Nhật thì có một số công ty như Panasonic hay NEC đều có những solution đứng top thế giới về độ chính xác và tốc độ (Có thể tham khảo tại đây).]]></description>
         </item>
         <item>
             <title><![CDATA[Torch gather usage]]></title>
             <link>https://huutrinh68.github.io/manabitv/blog/torch gather</link>
             <guid>torch gather</guid>
-            <pubDate>Thu, 09 Sep 2021 07:43:19 GMT</pubDate>
+            <pubDate>Thu, 09 Sep 2021 07:55:15 GMT</pubDate>
             <description><![CDATA[Get the elements of y which index has specified by x]]></description>
         </item>
         <item>
             <title><![CDATA[Neovim setting]]></title>
             <link>https://huutrinh68.github.io/manabitv/blog/neovim setting</link>
             <guid>neovim setting</guid>
-            <pubDate>Thu, 09 Sep 2021 07:43:19 GMT</pubDate>
+            <pubDate>Thu, 09 Sep 2021 07:55:15 GMT</pubDate>
             <description><![CDATA[Install neovim]]></description>
         </item>
     </channel>
