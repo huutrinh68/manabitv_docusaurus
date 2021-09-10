@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://huutrinh68.github.io/manabitv/blog</id>
     <title>ManabiTV Blog</title>
-    <updated>2021-09-10T15:01:33.278Z</updated>
+    <updated>2021-09-10T15:10:19.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://huutrinh68.github.io/manabitv/blog"/>
     <subtitle>ManabiTV Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Links to download free book]]></title>
         <id>free book</id>
         <link href="https://huutrinh68.github.io/manabitv/blog/free book"/>
-        <updated>2021-09-10T15:01:33.278Z</updated>
+        <updated>2021-09-10T15:10:19.257Z</updated>
         <summary type="html"><![CDATA[You can access here to download pdf book]]></summary>
         <author>
             <name>Huutrinh</name>
@@ -22,7 +22,7 @@
         <title type="html"><![CDATA[Dataset cho face recognition]]></title>
         <id>dataset</id>
         <link href="https://huutrinh68.github.io/manabitv/blog/dataset"/>
-        <updated>2021-09-10T15:01:33.278Z</updated>
+        <updated>2021-09-10T15:10:19.257Z</updated>
         <summary type="html"><![CDATA[Gần đây gặp nhiều project làm về phát hiện và nhận diện khuôn mặt (face recognition). Về tác vụ này thì người ta đã nghiên cứu và thực hiện từ khá lâu rồi. Như ở Nhật thì có một số công ty như Panasonic hay NEC đều có những solution đứng top thế giới về độ chính xác và tốc độ (Có thể tham khảo tại đây).]]></summary>
         <author>
             <name>Huutrinh</name>
@@ -33,7 +33,7 @@
         <title type="html"><![CDATA[Torch gather usage]]></title>
         <id>torch gather</id>
         <link href="https://huutrinh68.github.io/manabitv/blog/torch gather"/>
-        <updated>2021-09-10T15:01:33.278Z</updated>
+        <updated>2021-09-10T15:10:19.257Z</updated>
         <summary type="html"><![CDATA[Get the elements of y which index has specified by x]]></summary>
         <author>
             <name>Huutrinh</name>
@@ -44,7 +44,7 @@
         <title type="html"><![CDATA[Neovim setting]]></title>
         <id>neovim setting</id>
         <link href="https://huutrinh68.github.io/manabitv/blog/neovim setting"/>
-        <updated>2021-09-10T15:01:33.278Z</updated>
+        <updated>2021-09-10T15:10:19.257Z</updated>
         <summary type="html"><![CDATA[Install neovim]]></summary>
         <author>
             <name>Huutrinh</name>
