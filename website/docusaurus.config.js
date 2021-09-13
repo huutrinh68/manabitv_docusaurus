@@ -22,13 +22,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/huutrinh68/manabitv/website/',
+          editUrl: 'https://github.com/huutrinh68/manabitv/edit/master/website/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/huutrinh68/manabitv/website/master/',
+          editUrl: 'https://github.com/huutrinh68/manabitv/edit/master/website/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
