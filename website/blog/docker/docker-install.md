@@ -1,4 +1,14 @@
-# Cài đặt môi trường docker
+---
+slug: docker-install
+title: Cài đặt môi trường docker
+authors:
+  name: Huutrinh
+  title: ManabiTV team
+  url: https://github.com/huutrinh68
+  image_url: https://avatars.githubusercontent.com/u/8240899?s=400&u=8719e17cf254c73acc2919380796dee58facdf59&v=4
+tags: [docker]
+---
+Cài đặt môi trường docker
 - Cài đặt docker engine
 - Cài đặt docker-compose 
 
