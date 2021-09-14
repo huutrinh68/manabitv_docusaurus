@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[212],{1555:function(a){a.exports=JSON.parse('{"allTagsPath":"/manabitv/blog/tags","slug":"/manabitv/blog/tags/docker","name":"docker","count":1,"permalink":"/manabitv/blog/tags/docker"}')}}]);
