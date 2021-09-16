@@ -31,6 +31,7 @@ Nếu trên linux server thì vị trí thường là bên dưới ```/var/lib/d
 Dùng lệnh dưới để xóa
 ```
 $ sudo truncate -s 0 /var/lib/docker/containers/xxx-json.log
+```
 
 ### Tạo logging rotate cho docker container
 Bên trong service của docker-compose ta thêm đoạn setting sau:
@@ -41,6 +42,7 @@ logging:
     max-size: '10m'
     max-file: '3'
  ```
+ 
  Ở đây đang ví dụ là cứ 10Mb thì file log sẽ được tách ra, và tối đa là có 3 files như vậy là 30Mb log tối đa.
  Do là options nên các thông số trên có thể thay đổi tùy thích
  Sau đó restart lại các service
@@ -53,6 +55,7 @@ logging:
  ```
  $ sudo vim /etc/docker/daemin.json
  ```
+ 
  Thêm vào thông tin dưới đây
  ```
  {
@@ -60,18 +63,21 @@ logging:
     "log-opts": {"max-size": "10m", "max-file": "3"}
  }
  ```
+ 
  Lưu setting trên lại và kiểm tra bằng lệnh
+ ```
  $ sudo cat /etc/docker/daemin.json
- # Thêm vào thông tin dưới đây
  {
     "log-driver": "json-file",
     "log-opts": {"max-size": "10m", "max-file": "3"}
  }
  ```
+ 
  Dùng cách này chúng ta phải restart cả docker service để load lại config cho docker
  ```
  $ docker-compose stop
  $ sudo systemctl restart docker
  $ docker-compose restart
  ```
-Okie đã xong và yên tâm việc không bị file log làm tràn dung lượng nữa!
+ 
+🍺 🍺 🍺 Okie đã xong và yên tâm việc không bị file log làm tràn dung lượng nữa!
