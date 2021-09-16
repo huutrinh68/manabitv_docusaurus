@@ -1,6 +1,7 @@
 ---
 slug: github deploy
 title: Customize domain
+date: 2021-09-16
 authors:
   name: Huutrinh
   title: ManabiTV team
