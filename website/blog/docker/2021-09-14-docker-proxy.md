@@ -1,6 +1,7 @@
 ---
 slug: docker-proxy
 title: Cài đặt proxy cho docker
+date: 2021-09-14
 authors:
   name: Huutrinh
   title: ManabiTV team
