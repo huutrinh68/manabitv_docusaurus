@@ -1,6 +1,7 @@
 ---
 slug: dataset
 title: Dataset cho face recognition
+date: 2021-09-08
 authors:
   name: Huutrinh
   title: ManabiTV team
