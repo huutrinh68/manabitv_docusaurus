@@ -4,35 +4,28 @@
         <title>ManabiTV Blog</title>
         <link>https://huutrinh68.github.io/manabitv/blog</link>
         <description>ManabiTV Blog</description>
-        <lastBuildDate>Thu, 16 Sep 2021 06:34:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 06:34:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Dataset cho face recognition]]></title>
-            <link>https://huutrinh68.github.io/manabitv/blog/dataset</link>
-            <guid>dataset</guid>
-            <pubDate>Thu, 16 Sep 2021 06:34:18 GMT</pubDate>
-            <description><![CDATA[Gần đây gặp nhiều project làm về phát hiện và nhận diện khuôn mặt (face recognition). Về tác vụ này thì người ta đã nghiên cứu và thực hiện từ khá lâu rồi. Như ở Nhật thì có một số công ty như Panasonic hay NEC đều có những solution đứng top thế giới về độ chính xác và tốc độ (Có thể tham khảo tại đây).]]></description>
-        </item>
         <item>
             <title><![CDATA[Torch gather usage]]></title>
             <link>https://huutrinh68.github.io/manabitv/blog/torch gather</link>
             <guid>torch gather</guid>
-            <pubDate>Thu, 16 Sep 2021 06:34:18 GMT</pubDate>
+            <pubDate>Thu, 16 Sep 2021 06:34:45 GMT</pubDate>
             <description><![CDATA[Get the elements of y which index has specified by x]]></description>
         </item>
         <item>
             <title><![CDATA[Cài đặt môi trường docker]]></title>
             <link>https://huutrinh68.github.io/manabitv/blog/docker-install</link>
             <guid>docker-install</guid>
-            <pubDate>Thu, 16 Sep 2021 06:34:18 GMT</pubDate>
+            <pubDate>Thu, 16 Sep 2021 06:34:45 GMT</pubDate>
             <description><![CDATA[Cài đặt môi trường docker]]></description>
         </item>
         <item>
             <title><![CDATA[Cài đặt proxy cho docker]]></title>
             <link>https://huutrinh68.github.io/manabitv/blog/docker-proxy</link>
             <guid>docker-proxy</guid>
-            <pubDate>Thu, 16 Sep 2021 06:34:18 GMT</pubDate>
+            <pubDate>Thu, 16 Sep 2021 06:34:45 GMT</pubDate>
             <description><![CDATA[Cài đặt proxy cho docker]]></description>
         </item>
         <item>
@@ -48,6 +41,13 @@
             <guid>free book</guid>
             <pubDate>Wed, 08 Sep 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[You can access here to download pdf book]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Dataset cho face recognition]]></title>
+            <link>https://huutrinh68.github.io/manabitv/blog/dataset</link>
+            <guid>dataset</guid>
+            <pubDate>Wed, 08 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Gần đây gặp nhiều project làm về phát hiện và nhận diện khuôn mặt (face recognition). Về tác vụ này thì người ta đã nghiên cứu và thực hiện từ khá lâu rồi. Như ở Nhật thì có một số công ty như Panasonic hay NEC đều có những solution đứng top thế giới về độ chính xác và tốc độ (Có thể tham khảo tại đây).]]></description>
         </item>
         <item>
             <title><![CDATA[Neovim setting]]></title>
