@@ -4,21 +4,14 @@
         <title>ManabiTV Blog</title>
         <link>https://huutrinh68.github.io/manabitv/blog</link>
         <description>ManabiTV Blog</description>
-        <lastBuildDate>Thu, 16 Sep 2021 06:35:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 06:35:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Cài đặt môi trường docker]]></title>
-            <link>https://huutrinh68.github.io/manabitv/blog/docker-install</link>
-            <guid>docker-install</guid>
-            <pubDate>Thu, 16 Sep 2021 06:35:08 GMT</pubDate>
-            <description><![CDATA[Cài đặt môi trường docker]]></description>
-        </item>
         <item>
             <title><![CDATA[Cài đặt proxy cho docker]]></title>
             <link>https://huutrinh68.github.io/manabitv/blog/docker-proxy</link>
             <guid>docker-proxy</guid>
-            <pubDate>Thu, 16 Sep 2021 06:35:08 GMT</pubDate>
+            <pubDate>Thu, 16 Sep 2021 06:35:26 GMT</pubDate>
             <description><![CDATA[Cài đặt proxy cho docker]]></description>
         </item>
         <item>
@@ -27,6 +20,13 @@
             <guid>github deploy</guid>
             <pubDate>Thu, 16 Sep 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Khi deploy với web tĩnh lên github page, ta sẽ nhận được domain mặc định là `.github.io`.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Cài đặt môi trường docker]]></title>
+            <link>https://huutrinh68.github.io/manabitv/blog/docker-install</link>
+            <guid>docker-install</guid>
+            <pubDate>Mon, 13 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cài đặt môi trường docker]]></description>
         </item>
         <item>
             <title><![CDATA[Links to download free book]]></title>
