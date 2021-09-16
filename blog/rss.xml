@@ -8,6 +8,13 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[logging rotation cho container]]></title>
+            <link>https://huutrinh68.github.io/manabitv/blog/logging-rotate</link>
+            <guid>logging-rotate</guid>
+            <pubDate>Thu, 16 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Trong bài này sẽ hướng dẫn cách xóa log trong container]]></description>
+        </item>
+        <item>
             <title><![CDATA[Customize domain]]></title>
             <link>https://huutrinh68.github.io/manabitv/blog/github deploy</link>
             <guid>github deploy</guid>

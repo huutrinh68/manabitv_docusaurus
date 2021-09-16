@@ -8,6 +8,17 @@
     <subtitle>ManabiTV Blog</subtitle>
     <icon>https://huutrinh68.github.io/manabitv/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[logging rotation cho container]]></title>
+        <id>logging-rotate</id>
+        <link href="https://huutrinh68.github.io/manabitv/blog/logging-rotate"/>
+        <updated>2021-09-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Trong bài này sẽ hướng dẫn cách xóa log trong container]]></summary>
+        <author>
+            <name>Huutrinh</name>
+            <uri>https://github.com/huutrinh68</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Customize domain]]></title>
         <id>github deploy</id>
         <link href="https://huutrinh68.github.io/manabitv/blog/github deploy"/>
