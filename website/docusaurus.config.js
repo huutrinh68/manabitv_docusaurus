@@ -31,7 +31,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           // editUrl: 'https://github.com/huutrinh68/manabitv/edit/master/website/',
           editUrl: undefined,
           blogSidebarCount: 10,
-          postsPerPage: '10',
+          postsPerPage: 10,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
