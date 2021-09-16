@@ -8,7 +8,7 @@
     <subtitle>ManabiTV Blog</subtitle>
     <icon>https://huutrinh68.github.io/manabitv/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[logging rotation cho container]]></title>
+        <title type="html"><![CDATA[Logging rotation]]></title>
         <id>logging-rotate</id>
         <link href="https://huutrinh68.github.io/manabitv/blog/logging-rotate"/>
         <updated>2021-09-16T00:00:00.000Z</updated>
