@@ -1,6 +1,7 @@
 ---
 slug: docker-install
 title: Cài đặt môi trường docker
+date: 2021-09-13
 authors:
   name: Huutrinh
   title: ManabiTV team
