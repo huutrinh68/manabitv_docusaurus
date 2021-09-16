@@ -1,6 +1,7 @@
 ---
 slug: neovim setting
 title: Neovim setting
+date: 2021-09-08
 authors:
   name: Huutrinh
   title: ManabiTV team
