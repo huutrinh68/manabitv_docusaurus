@@ -1,6 +1,6 @@
 ---
 slug: logging-rotate
-title: logging rotation cho container
+title: Logging rotation
 date: 2021-09-16
 authors:
   name: Huutrinh
@@ -11,7 +11,7 @@ tags: [docker, logging]
 ---
 Trong bài này sẽ hướng dẫn cách xóa log trong container
 
-Khi sủ dụng docker trên server, service tự nhiên một ngày đẹp trời không hoạt động,
+Khi sử dụng docker trên server, service tự nhiên một ngày đẹp trời không hoạt động,
 lúc đó kiểm tra hệ thống thì ta thấy dung lượng của ổ cứng đã không còn nữa.
 Và lý do là do lượng log quá lớn mà container sinh ra tích tụ từ rất lâu rồi.
 
@@ -52,7 +52,9 @@ logging:
  Còn một cách setting nữa sẽ setting cho toàn bộ docker container chứ không cần vào docker-compose để setting cho từng service.
  ```
  $ sudo vim /etc/docker/daemin.json
- # Thêm vào thông tin dưới đây
+ ```
+ Thêm vào thông tin dưới đây
+ ```
  {
     "log-driver": "json-file",
     "log-opts": {"max-size": "10m", "max-file": "3"}
@@ -72,4 +74,4 @@ logging:
  $ sudo systemctl restart docker
  $ docker-compose restart
  ```
-Okie đã xong!
+Okie đã xong và yên tâm việc không bị file log làm tràn dung lượng nữa!
