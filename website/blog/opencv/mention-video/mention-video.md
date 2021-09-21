@@ -31,7 +31,7 @@ Bài này hướng dẫn cách thứ 3 bên trên.
   ```
 - Tiếp theo chuẩn bị script như trong nội dung [file này](https://github.com/huutrinh68/manabitv/blob/master/website/blog/opencv/mention-video/mention.py)
   ```
-  $ wget https://raw.githubusercontent.com/huutrinh68/manabitv/master/website/blog/opencv/mention-video/mention.py
+  $ wget https://raw.githubusercontent.com/huutrinh68/manabitv/master/website/blog/opencv/src/mention.py
   $ mkdir input output
   ```
 - Trong folder input, đặt video muốn định dạng MP4 sau đó chỉ đường dẫn link đến script để thực hiện
