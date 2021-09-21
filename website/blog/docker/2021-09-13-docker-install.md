@@ -49,3 +49,5 @@ $ sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docke
 # Tạo permission cho docker-compose
 sudo chmod +x /usr/local/bin/docker-compose
 ```
+
+🍺 Done!
