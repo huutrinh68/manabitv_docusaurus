@@ -4,16 +4,9 @@
         <title>ManabiTV Blog</title>
         <link>https://huutrinh68.github.io/manabitv/blog</link>
         <description>ManabiTV Blog</description>
-        <lastBuildDate>Tue, 21 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Mention cho video]]></title>
-            <link>https://huutrinh68.github.io/manabitv/blog/mention function</link>
-            <guid>mention function</guid>
-            <pubDate>Tue, 21 Sep 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Trong video, khi muốn mention cho một đối tượng nào thì ta sẽ vẽ lên các đối tượng đó những mũi tên hay những chú thích băng text.]]></description>
-        </item>
         <item>
             <title><![CDATA[Logging rotation]]></title>
             <link>https://huutrinh68.github.io/manabitv/blog/logging-rotate</link>
