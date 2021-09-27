@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[3901],{7271:function(u){u.exports=JSON.parse('{"allTagsPath":"/manabitv_docusaurus/blog/tags","slug":"/manabitv_docusaurus/blog/tags/ubuntu","name":"ubuntu","count":1,"permalink":"/manabitv_docusaurus/blog/tags/ubuntu"}')}}]);

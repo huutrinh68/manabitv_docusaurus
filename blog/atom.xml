@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://huutrinh68.github.io/manabitv/blog</id>
+    <id>https://huutrinh68.github.io/manabitv_docusaurus/blog</id>
     <title>ManabiTV Blog</title>
     <updated>2021-09-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://huutrinh68.github.io/manabitv/blog"/>
+    <link rel="alternate" href="https://huutrinh68.github.io/manabitv_docusaurus/blog"/>
     <subtitle>ManabiTV Blog</subtitle>
-    <icon>https://huutrinh68.github.io/manabitv/img/favicon.ico</icon>
+    <icon>https://huutrinh68.github.io/manabitv_docusaurus/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Mention cho video]]></title>
         <id>mention function</id>
-        <link href="https://huutrinh68.github.io/manabitv/blog/mention function"/>
+        <link href="https://huutrinh68.github.io/manabitv_docusaurus/blog/mention function"/>
         <updated>2021-09-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Trong video, khi muốn mention cho một đối tượng nào thì ta sẽ vẽ lên các đối tượng đó những mũi tên hay những chú thích băng text.]]></summary>
         <author>
@@ -21,7 +21,7 @@
     <entry>
         <title type="html"><![CDATA[Logging rotation]]></title>
         <id>logging-rotate</id>
-        <link href="https://huutrinh68.github.io/manabitv/blog/logging-rotate"/>
+        <link href="https://huutrinh68.github.io/manabitv_docusaurus/blog/logging-rotate"/>
         <updated>2021-09-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Trong bài này sẽ hướng dẫn cách xóa log trong container]]></summary>
         <author>
@@ -32,7 +32,7 @@
     <entry>
         <title type="html"><![CDATA[Customize domain]]></title>
         <id>github deploy</id>
-        <link href="https://huutrinh68.github.io/manabitv/blog/github deploy"/>
+        <link href="https://huutrinh68.github.io/manabitv_docusaurus/blog/github deploy"/>
         <updated>2021-09-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Khi deploy với web tĩnh lên github page, ta sẽ nhận được domain mặc định là `.github.io`.]]></summary>
         <author>
@@ -43,7 +43,7 @@
     <entry>
         <title type="html"><![CDATA[Cài đặt proxy cho docker]]></title>
         <id>docker-proxy</id>
-        <link href="https://huutrinh68.github.io/manabitv/blog/docker-proxy"/>
+        <link href="https://huutrinh68.github.io/manabitv_docusaurus/blog/docker-proxy"/>
         <updated>2021-09-14T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Cài đặt proxy cho docker]]></summary>
         <author>
@@ -54,7 +54,7 @@
     <entry>
         <title type="html"><![CDATA[Cài đặt môi trường docker]]></title>
         <id>docker-install</id>
-        <link href="https://huutrinh68.github.io/manabitv/blog/docker-install"/>
+        <link href="https://huutrinh68.github.io/manabitv_docusaurus/blog/docker-install"/>
         <updated>2021-09-13T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Cài đặt môi trường docker]]></summary>
         <author>
@@ -65,7 +65,7 @@
     <entry>
         <title type="html"><![CDATA[Links to download free book]]></title>
         <id>free book</id>
-        <link href="https://huutrinh68.github.io/manabitv/blog/free book"/>
+        <link href="https://huutrinh68.github.io/manabitv_docusaurus/blog/free book"/>
         <updated>2021-09-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[You can access here to download pdf book]]></summary>
         <author>
@@ -76,7 +76,7 @@
     <entry>
         <title type="html"><![CDATA[Dataset cho face recognition]]></title>
         <id>dataset</id>
-        <link href="https://huutrinh68.github.io/manabitv/blog/dataset"/>
+        <link href="https://huutrinh68.github.io/manabitv_docusaurus/blog/dataset"/>
         <updated>2021-09-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Gần đây gặp nhiều project làm về phát hiện và nhận diện khuôn mặt (face recognition). Về tác vụ này thì người ta đã nghiên cứu và thực hiện từ khá lâu rồi. Như ở Nhật thì có một số công ty như Panasonic hay NEC đều có những solution đứng top thế giới về độ chính xác và tốc độ (Có thể tham khảo tại đây).]]></summary>
         <author>
@@ -87,7 +87,7 @@
     <entry>
         <title type="html"><![CDATA[Torch gather usage]]></title>
         <id>torch gather</id>
-        <link href="https://huutrinh68.github.io/manabitv/blog/torch gather"/>
+        <link href="https://huutrinh68.github.io/manabitv_docusaurus/blog/torch gather"/>
         <updated>2021-09-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Get the elements of y which index has specified by x]]></summary>
         <author>
@@ -98,7 +98,7 @@
     <entry>
         <title type="html"><![CDATA[Neovim setting]]></title>
         <id>neovim setting</id>
-        <link href="https://huutrinh68.github.io/manabitv/blog/neovim setting"/>
+        <link href="https://huutrinh68.github.io/manabitv_docusaurus/blog/neovim setting"/>
         <updated>2021-09-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Install neovim]]></summary>
         <author>

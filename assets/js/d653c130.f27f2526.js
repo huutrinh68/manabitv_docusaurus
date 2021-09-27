@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[4405],{8427:function(e){e.exports=JSON.parse('{"permalink":"/manabitv_docusaurus/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":9,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
