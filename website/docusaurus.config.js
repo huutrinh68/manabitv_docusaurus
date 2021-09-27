@@ -7,12 +7,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: 'ManabiTV',
   tagline: 'Let’s build  a brighter future together',
   url: 'https://huutrinh68.github.io/',
-  baseUrl: '/manabitv/',
+  baseUrl: '/manabitv_docusaurus/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'huutrinh68', // Usually your GitHub org/user name.
-  projectName: 'manabitv', // Usually your repo name.
+  projectName: 'manabitv_docusaurus', // Usually your repo name.
 
   presets: [
     [
@@ -22,13 +22,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          // editUrl: 'https://github.com/huutrinh68/manabitv/edit/master/website/',
+          // editUrl: 'https://github.com/huutrinh68/manabitv_docusaurus/edit/master/website/',
           editUrl: undefined,
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          // editUrl: 'https://github.com/huutrinh68/manabitv/edit/master/website/',
+          // editUrl: 'https://github.com/huutrinh68/manabitv_docusaurus/edit/master/website/',
           editUrl: undefined,
           blogSidebarCount: 10,
           postsPerPage: 10,
@@ -58,7 +58,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/huutrinh68/manabitv',
+            href: 'https://github.com/huutrinh68/manabitv_docusaurus',
             label: 'GitHub',
             position: 'right',
           },
@@ -98,7 +98,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/huutrinh68/manabitv',
+                href: 'https://github.com/huutrinh68/manabitv_docusaurus',
               },
             ],
           },
